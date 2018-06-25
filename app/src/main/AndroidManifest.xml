@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.coincalc.anduril.rakon">
+    package="com.coincalc.anduril.sharetale">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.coincalc.anduril.rakken.MainActivity"
+        <activity android:name="com.coincalc.anduril.sharetale.MainActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -18,24 +18,24 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.coincalc.anduril.rakken.ViewStories"
+            android:name="com.coincalc.anduril.sharetale.ViewStories"
             android:screenOrientation="portrait"
             android:label="@string/title_activity_view_stories" />
-        <activity android:name="com.coincalc.anduril.rakken.StoryEntries"
+        <activity android:name="com.coincalc.anduril.sharetale.StoryEntries"
             android:screenOrientation="portrait"/>
-        <activity android:name="com.coincalc.anduril.rakken.SignUpActivity"
+        <activity android:name="com.coincalc.anduril.sharetale.SignUpActivity"
             android:screenOrientation="portrait"/>
-        <activity android:name="com.coincalc.anduril.rakken.NewEntry"
+        <activity android:name="com.coincalc.anduril.sharetale.NewEntry"
             android:screenOrientation="portrait"/>
-        <activity android:name="com.coincalc.anduril.rakken.SignInActivity"
+        <activity android:name="com.coincalc.anduril.sharetale.SignInActivity"
             android:screenOrientation="portrait"/>
-        <activity android:name="com.coincalc.anduril.rakken.CreateNew"
+        <activity android:name="com.coincalc.anduril.sharetale.CreateNew"
             android:screenOrientation="portrait"/>
         <activity
-            android:name="com.coincalc.anduril.rakken.DetailsPopup"
+            android:name="com.coincalc.anduril.sharetale.DetailsPopup"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.CustomPopup"></activity>
-        <activity android:name="com.coincalc.anduril.rakken.ForgotPassword"
+        <activity android:name="com.coincalc.anduril.sharetale.ForgotPassword"
             android:screenOrientation="portrait"></activity>
     </application>
 

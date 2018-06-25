@@ -7,7 +7,7 @@
     android:background="@drawable/bg_anim"
     android:fitsSystemWindows="true"
     android:id="@+id/layout_alt"
-    tools:context="com.coincalc.anduril.rakken.MainActivity">
+    tools:context="com.coincalc.anduril.sharetale.MainActivity">
 
     <ImageView
         android:id="@+id/imageView"

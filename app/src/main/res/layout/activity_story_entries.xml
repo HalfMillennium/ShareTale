@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:weightSum="20"
     android:fitsSystemWindows="true"
-    tools:context="com.coincalc.anduril.rakken.StoryEntries">
+    tools:context="com.coincalc.anduril.sharetale.StoryEntries">
 
     <TextView
         android:id="@+id/story_name"

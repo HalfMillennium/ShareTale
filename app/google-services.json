@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "898931187284",
+    "firebase_url": "https://sharetale-3d2d8.firebaseio.com",
+    "project_id": "sharetale-3d2d8",
+    "storage_bucket": "sharetale-3d2d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898931187284:android:4f457c5310fba936",
+        "android_client_info": {
+          "package_name": "com.coincalc.anduril.sharetale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898931187284-hanu198ch9mc3btmt1c4ords7l2mh6t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1oJUM730TUkikJNbNsX8og3cMXAxtdKw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

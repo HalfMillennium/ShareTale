@@ -18,6 +18,6 @@
         />
     <stroke
         android:width="5dp"
-        android:color="#4B0082"
+        android:color="@color/mainDark"
         />
 </shape>
